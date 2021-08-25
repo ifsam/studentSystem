@@ -12,7 +12,6 @@
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.2.9.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
-      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-collections4-4.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
