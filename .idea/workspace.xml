@@ -11,95 +11,28 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:github/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb73765-1095-4e68-bda7-7a8db18aa3ee" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/StuDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/impl/StuDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/entity/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/StuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/impl/StuServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/AddServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/CheckFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/DeleteStu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/ErroServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/QueryStuServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/ShowAllStuServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/utils/MysqlUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/druid-1.1.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/junit-4.121.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-jdbc-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-tx-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/addStu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/changeStu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/erroPage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/showStu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/StuDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/impl/StuDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/entity/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/StuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/impl/StuServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/AddServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/CheckFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/DeleteStu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/ErroServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/QueryStuServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/ShowAllStuServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/com/qin/utils/MysqlUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/studentSystem/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studentSystem.iml" afterDir="false" />
+    <list default="true" id="8eb73765-1095-4e68-bda7-7a8db18aa3ee" name="Default Changelist" comment="change id =1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +60,11 @@
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="ifsam" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="myRepos" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -164,7 +102,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -345,7 +283,7 @@
       <workItem from="1629879029504" duration="3386000" />
       <workItem from="1634103137530" duration="2267000" />
       <workItem from="1646391540116" duration="3582000" />
-      <workItem from="1646645947983" duration="8202000" />
+      <workItem from="1646645947983" duration="13556000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1629861380880</created>
@@ -361,7 +299,42 @@
       <option name="project" value="LOCAL" />
       <updated>1629881165281</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1646722644346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646722644346</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1646722712705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646722712705</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Usertest commit">
+      <created>1646722978812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646722978812</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Usertest commit2">
+      <created>1646724495550</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646724495550</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change id =1">
+      <created>1646728310997</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646728310997</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +345,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -395,9 +380,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Usertest commit" />
+    <MESSAGE value="Usertest commit2" />
+    <MESSAGE value="change id =1" />
+    <option name="LAST_COMMIT_MESSAGE" value="change id =1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="671" y="298" key="#Notifications" timestamp="1646723911965">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="671" y="298" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1646723911965" />
     <state x="441" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646706630084">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -406,10 +398,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="640" y="146" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.864@0.0.1536.864" timestamp="1646391982383" />
-    <state x="486" y="193" key="FileChooserDialogImpl" timestamp="1646646300910">
+    <state x="203" y="110" width="1200" height="624" key="DiffContextDialog" timestamp="1646729529613">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="486" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1646646300910" />
+    <state x="203" y="110" width="1200" height="624" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1646729529613" />
+    <state x="486" y="193" key="FileChooserDialogImpl" timestamp="1646727396684">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="486" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1646727396684" />
+    <state x="562" y="303" key="Github.CreatePullRequestDialog" timestamp="1646723883937">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="562" y="303" key="Github.CreatePullRequestDialog/0.0.1536.864@0.0.1536.864" timestamp="1646723883937" />
     <state x="644" y="334" key="Github.ShareDialog" timestamp="1646722429058">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -462,14 +462,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1082" height="159" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1646707522525" />
-    <state x="216" y="0" key="SettingsEditor" timestamp="1646722182182">
+    <state x="667" y="194" key="MultipleFileMergeDialog" timestamp="1646725113996">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="216" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1646722182182" />
-    <state x="381" y="169" key="Vcs.Push.Dialog.v2" timestamp="1646722269697">
+    <state x="667" y="194" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1646725113996" />
+    <state x="216" y="0" key="SettingsEditor" timestamp="1646727648937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="381" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1646722269697" />
+    <state x="216" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1646727648937" />
+    <state x="528" y="140" key="VCS.ChangeListViewerDialog" timestamp="1646729481433">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="528" y="140" key="VCS.ChangeListViewerDialog/0.0.1536.864@0.0.1536.864" timestamp="1646729481433" />
+    <state x="381" y="169" key="Vcs.Push.Dialog.v2" timestamp="1646728345444">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="381" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1646728345444" />
+    <state x="575" y="223" key="git4idea.merge.GitMergeDialog" timestamp="1646728912840">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="575" y="223" key="git4idea.merge.GitMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1646728912840" />
+    <state x="487" y="223" key="git4idea.merge.GitPullDialog" timestamp="1646728677930">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="487" y="223" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1646728677930" />
+    <state x="576" y="325" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1646727434142">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="576" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1646727434142" />
+    <state x="556" y="282" key="git4idea.ui.GitUnstashDialog" timestamp="1646729503675">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="556" y="282" key="git4idea.ui.GitUnstashDialog/0.0.1536.864@0.0.1536.864" timestamp="1646729503675" />
     <state x="219" y="49" key="new project wizard" timestamp="1646646326385">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
