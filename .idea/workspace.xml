@@ -32,7 +32,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb73765-1095-4e68-bda7-7a8db18aa3ee" name="Default Changelist" comment="change id =1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qin/entity/Usertest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qin/entity/Usertest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +58,13 @@
         <option value="eric &lt;598521237@qq.com&gt;" />
       </list>
     </option>
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
@@ -334,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646728310997</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change id =1">
+      <created>1646729601940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646729601940</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,10 +502,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="576" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1646727434142" />
-    <state x="556" y="282" key="git4idea.ui.GitUnstashDialog" timestamp="1646729503675">
+    <state x="598" y="275" key="git4idea.ui.GitTagDialog" timestamp="1646729677250">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="556" y="282" key="git4idea.ui.GitUnstashDialog/0.0.1536.864@0.0.1536.864" timestamp="1646729503675" />
+    <state x="598" y="275" key="git4idea.ui.GitTagDialog/0.0.1536.864@0.0.1536.864" timestamp="1646729677250" />
+    <state x="556" y="282" key="git4idea.ui.GitUnstashDialog" timestamp="1646729590079">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="556" y="282" key="git4idea.ui.GitUnstashDialog/0.0.1536.864@0.0.1536.864" timestamp="1646729590079" />
     <state x="219" y="49" key="new project wizard" timestamp="1646646326385">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
