@@ -17,7 +17,7 @@ public class StuDaoImpl implements StuDao {
     public List<Student> queryAllStu() {
         String sql = "select * from student;";
         List<Student> studentList = template.query(sql, new BeanPropertyRowMapper<Student>(Student.class));
-        return studentList;
+        return  studentList;
     }
 
     @Override
