@@ -2,5 +2,5 @@ package com.qin.entity;
 
 public class Usertest {
     private int id = 2;
-    private int age =5;
+    private int age =3;
 }
