@@ -27,7 +27,7 @@ public class StuServiceImpl implements StuService {
 
     @Override
     public List<Student> queryStuBy(Student student, Page page) {
-        system.out.prinf("新增测试github");
+        system.out.prinf("新增测试github2");
         return stuDao.queryStuBy(student,page);
     }
 }
