@@ -29,6 +29,7 @@ public class StuServiceImpl implements StuService {
     public List<Student> queryStuBy(Student student, Page page) {
         system.out.prinf("新增测试github，冲突解决");
         System.out.println("新增测试  合并结果");
+        System.out.println("stash2测试");
         return stuDao.queryStuBy(student,page);
     }
 }
