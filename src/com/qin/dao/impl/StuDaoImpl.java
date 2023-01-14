@@ -52,7 +52,7 @@ public class StuDaoImpl implements StuDao {
             params.add(student.getSex());
         }
         if(page.getPages()>0&&(String.valueOf(page.getPages())!=null)&&!"".equals(page.getPages())){
-            sql.append(" limit "+((page.getPages()-1)*page.getClums())+","+((page.getPages()-1)*page.getClums()+page.getClums()));
+            sql.append(" limit "+((page.getPages()-1)*page.getClums())+","+page.getClums());
         }
         if(params.size()!=0){
             studentList = template.query(sql.toString(), new BeanPropertyRowMapper<Student>(Student.class), params.toArray());

@@ -44,7 +44,7 @@
                 <th>qq邮箱</th>
                 <th>操作</th>
             </tr>
-            <c:forEach begin="0" end="9" items="${stulist}" var="stu" varStatus="s">
+            <c:forEach begin="0" end="4" items="${stulist}" var="stu" varStatus="s">
                 <tr>
                     <td>${stu.xuehao}</td>
                     <td>${stu.stuName}</td>

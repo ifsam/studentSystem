@@ -1,11 +1,13 @@
 <component name="libraryTable">
-  <library name="commons-beanutils-1.9.4">
+  <library name="lib">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/druid-1.1.22.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/junit-4.121.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.2.9.RELEASE.jar!/" />

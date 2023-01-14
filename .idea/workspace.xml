@@ -18,11 +18,6 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
@@ -35,7 +30,103 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb73765-1095-4e68-bda7-7a8db18aa3ee" name="Default Changelist" comment="commit all" />
+    <list default="true" id="8eb73765-1095-4e68-bda7-7a8db18aa3ee" name="Default Changelist" comment="commit all">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/studentSystem_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/studentSystem_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/studentSystem_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_9_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_collections_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/StuDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/impl/StuDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/entity/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/entity/Usertest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/StuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/impl/StuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/services/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/AddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/CheckFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/DeleteStu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/ErroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/QueryStuServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/servlet/ShowAllStuServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/com/qin/utils/MysqlUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/classes/druid.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/commons-collections-3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/druid-1.1.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/junit-4.121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-jdbc-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/spring-tx-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/addStu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/changeStu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/erroPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/html/showStu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/studentSystem_war_exploded/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/StuDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/impl/StuDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/entity/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/entity/Usertest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/StuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/impl/StuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/services/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/AddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/CheckFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/DeleteStu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/ErroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/QueryStuServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/servlet/ShowAllStuServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/com/qin/utils/MysqlUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentSystem/druid.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qin/dao/impl/StuDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qin/dao/impl/StuDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qin/entity/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qin/entity/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qin/services/impl/StuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qin/services/impl/StuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/html/showStu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/html/showStu.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +142,7 @@
         <option value="Interface" />
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -96,68 +188,53 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.side.proportion" value="0.2632184" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javabase\IdeaProject\studentSystem\web" />
+      <recent name="D:\javabase\IdeaProject\studentSystem\.idea\web" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javabase\IdeaProject\studentSystem\web\WEB-INF\lib" />
       <recent name="D:\IdeaProject\studentSystem\web\WEB-INF\lib" />
       <recent name="D:\IdeaProject\studentSystem\src" />
       <recent name="D:\IdeaProject\studentSystem\web" />
       <recent name="D:\IdeaProject\studentSystem\web\WEB-INFO\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.38">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.yongxingyuan [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="tomcat7:run" />
-              </list>
-            </option>
-            <option name="pomFileName" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/../yongxingyuan" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
     <configuration name="Tomcat 9.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/studentSystem" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="studentSystem:war exploded">
           <settings>
@@ -261,10 +338,6 @@
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Maven.com.yongxingyuan [tomcat7:run]" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.38" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -294,6 +367,9 @@
       <workItem from="1671694254614" duration="43000" />
       <workItem from="1671792998606" duration="25000" />
       <workItem from="1672299708202" duration="572000" />
+      <workItem from="1673529409327" duration="12033000" />
+      <workItem from="1673586358859" duration="99000" />
+      <workItem from="1673665724664" duration="12957000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1629861380880</created>
@@ -467,10 +543,114 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit all" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="76" key="SettingsEditor" timestamp="1672300293593">
+    <state x="548" y="237" key="#BuildArtifactsBeforeRunChooser" timestamp="1673669672852">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="270" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1672300293593" />
+    <state x="548" y="237" key="#BuildArtifactsBeforeRunChooser/0.0.1536.864@0.0.1536.864" timestamp="1673669672852" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673678846329">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1673678846329" />
+    <state x="490" y="70" width="625" height="724" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1673534542374">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="490" y="70" width="625" height="724" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.864@0.0.1536.864" timestamp="1673534542374" />
+    <state x="578" y="345" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1673535634928">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="345" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.864@0.0.1536.864" timestamp="1673535634928" />
+    <state x="520" y="193" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1673671996590">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="520" y="193" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.864@0.0.1536.864" timestamp="1673671996590" />
+    <state x="567" y="308" key="DetectedRootsChooserDialog" timestamp="1673532145366">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="567" y="308" key="DetectedRootsChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1673532145366" />
+    <state x="602" y="244" key="FileChooserDialogImpl" timestamp="1673672311022">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="602" y="244" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1673672311022" />
+    <state width="1151" height="140" key="GridCell.Tab.0.bottom" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1151" height="140" key="GridCell.Tab.0.center" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1151" height="140" key="GridCell.Tab.0.left" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1151" height="140" key="GridCell.Tab.0.right" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1151" height="140" key="GridCell.Tab.1.bottom" timestamp="1673679245233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1673679245233" />
+    <state width="1151" height="140" key="GridCell.Tab.1.center" timestamp="1673679245233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1673679245233" />
+    <state width="1151" height="140" key="GridCell.Tab.1.left" timestamp="1673679245233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1673679245233" />
+    <state width="1151" height="140" key="GridCell.Tab.1.right" timestamp="1673679245233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1673679245233" />
+    <state width="1151" height="140" key="GridCell.Tab.2.bottom" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1151" height="140" key="GridCell.Tab.2.center" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1151" height="140" key="GridCell.Tab.2.left" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1151" height="140" key="GridCell.Tab.2.right" timestamp="1673679245232">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1151" height="140" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1673679245232" />
+    <state width="1235" height="210" key="GridCell.Tab.3.bottom" timestamp="1673536953135">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1235" height="210" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1673536953135" />
+    <state width="1235" height="210" key="GridCell.Tab.3.center" timestamp="1673536953134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1235" height="210" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1673536953134" />
+    <state width="1235" height="210" key="GridCell.Tab.3.left" timestamp="1673536953134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1235" height="210" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1673536953134" />
+    <state width="1235" height="210" key="GridCell.Tab.3.right" timestamp="1673536953134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1235" height="210" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1673536953134" />
+    <state x="515" y="142" key="NewModule_or_Project.wizard" timestamp="1673671938306">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="515" y="142" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1673671938306" />
+    <state x="299" y="11" key="SettingsEditor" timestamp="1673672596704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="11" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1673672596704" />
+    <state x="506" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1673537806817">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="506" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1673537806817" />
+    <state x="258" y="168" key="new project wizard" timestamp="1673671617466">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="258" y="168" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1673671617466" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
